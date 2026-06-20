@@ -26,12 +26,11 @@ systems**, and **Physical AI** through reproducible systems, measurements, and c
 
 | Project | Paper / Area | Code |
 | --- | --- | --- |
-| **VMscatter** | NSDI 2020; WiFi MIMO backscatter, OFDM, 802.11n | [20NSDI_VMscatter](https://github.com/xinliulab/20NSDI_VMscatter) |
+| **0Cal** | SenSys 2026; zero-calibration sensing/scanning system for millimeter-wave calibration | [26SenSys_0cal](https://github.com/xinliulab/26SenSys_0cal) |
+| **FTP** | INFOCOM 2024; millimeter-wave networking and beam training | [24InfoCom_FTP](https://github.com/xinliulab/24InfoCom_FTP) |
 | **LightThief** | USENIX Security 2023; optical communication security and encoded-light backscatter | [23Security_LightThief](https://github.com/xinliulab/23Security_LightThief) |
-| **TScatter** | NSDI 2021; backscatter systems | [21NSDI_TScatter](https://github.com/xinliulab/21NSDI_TScatter) |
-| **FTP** | INFOCOM 2024; networking and wireless systems | [24InfoCom_FTP](https://github.com/xinliulab/24InfoCom_FTP) |
-| **0cal** | SenSys 2026; sensing and calibration systems | [26SenSys_0cal](https://github.com/xinliulab/26SenSys_0cal) |
-| **KVCOMM** | NeurIPS 2025; efficient LLM-based multi-agent systems | [KVCOMM](https://github.com/xinliulab/KVCOMM) |
+| **TScatter** | NSDI 2021; WiFi, OFDM, backscatter, 802.11n | [21NSDI_TScatter](https://github.com/xinliulab/21NSDI_TScatter) |
+| **VMscatter** | NSDI 2020; WiFi, MIMO, backscatter, OFDM, 802.11n | [20NSDI_VMscatter](https://github.com/xinliulab/20NSDI_VMscatter) |
 
 ## Research Interests
 
