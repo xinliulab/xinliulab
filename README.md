@@ -26,7 +26,9 @@ systems**, and **Physical AI** through reproducible systems, measurements, and c
 
 | Project | Paper / Area | Code |
 | --- | --- | --- |
+| **2FiA** | IEEE S&P 2026; WiFi sensing-based human authentication with unique physiological biometrics, combining respiration and heartbeat | [Zenodo Artifact](https://zenodo.org/records/17361618) |
 | **0Cal** | SenSys 2026; zero-calibration sensing/scanning system for millimeter-wave calibration | [26SenSys_0cal](https://github.com/xinliulab/26SenSys_0cal) |
+| **O-JRC** | Computer Networks 2025; open-source mmWave MIMO-OFDM joint radar-communication experimentation platform | [O-JRC](https://github.com/mmWave-MIMO-Testbed/O-JRC) |
 | **FTP** | INFOCOM 2024; millimeter-wave networking and beam training | [24InfoCom_FTP](https://github.com/xinliulab/24InfoCom_FTP) |
 | **LightThief** | USENIX Security 2023; optical communication security and encoded-light backscatter | [23Security_LightThief](https://github.com/xinliulab/23Security_LightThief) |
 | **TScatter** | NSDI 2021; WiFi, OFDM, backscatter, 802.11n | [21NSDI_TScatter](https://github.com/xinliulab/21NSDI_TScatter) |
