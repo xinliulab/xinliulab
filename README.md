@@ -1,38 +1,61 @@
-# Xin Liu Lab
+# Xin Liu
 
-We build research prototypes for wireless sensing, backscatter communication,
-physical-layer security, and intelligent networked systems.
+<img align="right" src="https://xinliulab.github.io/Figure/headshot.png" alt="Xin Liu headshot" width="180">
 
-[Website](https://xinliulab.github.io) | [GitHub](https://github.com/xinliulab)
+Assistant Professor, Department of Computer Science, Florida State University  
+Director of XL-Stack Lab
 
-## Featured Research Code
+[Website](https://xinliulab.github.io) | [Google Scholar](https://scholar.google.com/citations?user=w-GyGM4AAAAJ) | [GitHub](https://github.com/xinliulab) | [LinkedIn](https://www.linkedin.com/in/xin-liu-57a834229)
 
-| Project | Area | What is inside |
+I lead **XL-Stack Lab**, where we build research prototypes across wireless sensing,
+backscatter communication, physical-layer security, integrated sensing and
+communication, RAN systems, and foundation-model-assisted networking.
+
+Our long-term goal is to connect **NextG wireless networks**, **cyber-physical
+systems**, and **Physical AI** through reproducible systems, measurements, and code.
+
+## About Me
+
+- Assistant Professor at **Florida State University**.
+- Former Postdoctoral Scholar at the **NSF AI-EDGE Institute**, The Ohio State University.
+- Ph.D. from **University of Maryland, Baltimore County**, advised by Prof. Ting Zhu.
+- Research background: wireless communication, networking, sensing, security, and machine-learning-enabled networks.
+- Engineering background: high-precision measurement instruments, high-speed and high-power circuits, embedded systems, MCUs, FPGAs, DSPs, ARMs, sensors, lasers, and motor/mechanical control.
+
+## Research Code
+
+| Project | Paper / Area | Code |
 | --- | --- | --- |
-| [20NSDI_VMscatter](https://github.com/xinliulab/20NSDI_VMscatter) | Backscatter, MIMO, OFDM, 802.11n | MATLAB implementation and reproducible simulations for VMscatter, including PoC decoding and reliability/high-throughput evaluations. |
-| [23Security_LightThief](https://github.com/xinliulab/23Security_LightThief) | Visible-light communication security | MATLAB simulation code for encoded-light backscatter and sine-wave reflection demos. |
-| [26SenSys_0cal](https://github.com/xinliulab/26SenSys_0cal) | Sensing systems | Code release for 0cal. |
-| [24InfoCom_FTP](https://github.com/xinliulab/24InfoCom_FTP) | Networking and systems | Research code release for FTP. |
-| [21NSDI_TScatter](https://github.com/xinliulab/21NSDI_TScatter) | Backscatter systems | Research code release for TScatter. |
-| [KVCOMM](https://github.com/xinliulab/KVCOMM) | Efficient LLM multi-agent systems | Online cross-context KV-cache communication for efficient LLM-based multi-agent systems. |
+| **VMscatter** | NSDI 2020; WiFi MIMO backscatter, OFDM, 802.11n | [20NSDI_VMscatter](https://github.com/xinliulab/20NSDI_VMscatter) |
+| **LightThief** | USENIX Security 2023; optical communication security and encoded-light backscatter | [23Security_LightThief](https://github.com/xinliulab/23Security_LightThief) |
+| **TScatter** | NSDI 2021; backscatter systems | [21NSDI_TScatter](https://github.com/xinliulab/21NSDI_TScatter) |
+| **FTP** | INFOCOM 2024; networking and wireless systems | [24InfoCom_FTP](https://github.com/xinliulab/24InfoCom_FTP) |
+| **0cal** | SenSys 2026; sensing and calibration systems | [26SenSys_0cal](https://github.com/xinliulab/26SenSys_0cal) |
+| **KVCOMM** | NeurIPS 2025; efficient LLM-based multi-agent systems | [KVCOMM](https://github.com/xinliulab/KVCOMM) |
 
-## Teaching and Course Materials
-
-| Repository | Course / Material |
-| --- | --- |
-| [FSU-COP4610-Operating-Systems](https://github.com/xinliulab/FSU-COP4610-Operating-Systems) | Operating systems demo code for FSU COP4610. |
-| [FSU-CIS5370-Computer-Security](https://github.com/xinliulab/FSU-CIS5370-Computer-Security) | Computer security course materials. |
-| [FSU-CIS4930-CIS5930-Future-Edge-Networks](https://github.com/xinliulab/FSU-CIS4930-CIS5930-Future-Edge-Networks) | Future edge networks course materials. |
-
-## Research Themes
+## Research Interests
 
 - Backscatter communication and sensing
-- Visible-light and RF security
-- Wireless systems and physical-layer design
-- Edge, networked, and AI-assisted systems
-- Reproducible research artifacts
+- Visible-light communication and optical wireless security
+- Integrated sensing and communication
+- NextG wireless networks and RAN intelligence
+- Physical-layer security
+- Cyber-physical systems and Physical AI
+- Foundation models for networked systems
+- Reproducible systems research
 
-## Quick Links
+## Teaching
 
-- Personal website: [xinliulab.github.io](https://xinliulab.github.io)
-- GitHub organization/profile: [github.com/xinliulab](https://github.com/xinliulab)
+| Course Materials | Link |
+| --- | --- |
+| Operating Systems | [FSU-COP4610-Operating-Systems](https://github.com/xinliulab/FSU-COP4610-Operating-Systems) |
+| Computer Security | [FSU-CIS5370-Computer-Security](https://github.com/xinliulab/FSU-CIS5370-Computer-Security) |
+| Future Edge Networks | [FSU-CIS4930-CIS5930-Future-Edge-Networks](https://github.com/xinliulab/FSU-CIS4930-CIS5930-Future-Edge-Networks) |
+
+## Contact
+
+- Email: xliu15 [at] fsu [dot] edu
+- Office: Love Building, Room 160
+- Address: Department of Computer Science, Florida State University
+
+For publications, students, news, and CV, please visit [xinliulab.github.io](https://xinliulab.github.io).
