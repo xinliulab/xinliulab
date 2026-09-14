@@ -32,7 +32,7 @@ systems**, and **Physical AI** through reproducible systems, measurements, and c
 | **O-JRC** | Computer Networks 2025; open-source mmWave MIMO-OFDM joint radar-communication experimentation platform | [O-JRC](https://github.com/mmWave-MIMO-Testbed/O-JRC) |
 | **FTP** | INFOCOM 2024; millimeter-wave networking and beam training | [24InfoCom_FTP](https://github.com/xinliulab/24InfoCom_FTP) |
 | **LightThief** | USENIX Security 2023; optical communication security and encoded-light backscatter | [23Security_LightThief](https://github.com/xinliulab/23Security_LightThief) |
-| **TScatter** | NSDI 2021; WiFi, OFDM, backscatter, 802.11n | [21NSDI_TScatter](https://github.com/xinliulab/21NSDI_TScatter) |
+| **TScatter** | NSDI 2021; WiFi OFDM backscatter | [21NSDI_TScatter](https://github.com/xinliulab/21NSDI_TScatter) |
 | **VMscatter** | NSDI 2020; WiFi MIMO backscatter | [20NSDI_VMscatter](https://github.com/xinliulab/20NSDI_VMscatter) |
 
 ## Research Interests
