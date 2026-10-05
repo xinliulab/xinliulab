@@ -26,6 +26,7 @@ systems**, and **Physical AI** through reproducible systems, measurements, and c
 
 | Project | Paper / Area | Code |
 | --- | --- | --- |
+| **BFMScan** | IMWUT/UbiComp 2026; explicit angle-resolved Wi-Fi sensing from the beamforming feedback matrix (BFM) of a single commodity device pair | [26UbiComp_BFMScan](https://github.com/xinliulab/26UbiComp_BFMScan) |
 | **GeoMotionGPT** | EMNLP 2026; geometry-aligned motion understanding with large language models | [GeoMotionGPT](https://github.com/JYe16/GeoMotionGPT) |
 | **2FiA** | IEEE S&P 2026; WiFi sensing-based human authentication with unique physiological biometrics, combining respiration and heartbeat | [Zenodo Artifact](https://zenodo.org/records/17361618) |
 | **0Cal** | SenSys 2026; zero-calibration sensing/scanning system for millimeter-wave calibration | [26SenSys_0cal](https://github.com/xinliulab/26SenSys_0cal) |
