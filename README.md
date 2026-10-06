@@ -1,11 +1,11 @@
 # XL-Stack Lab
 
-<img align="right" src="https://xinliulab.github.io/Figure/headshot.png" alt="Xin Liu headshot" width="180">
+<img align="right" src="https://xlstacklab.github.io/Figure/headshot.png" alt="Xin Liu headshot" width="180">
 
 Assistant Professor, Department of Computer Science, Florida State University  
 Director of XL-Stack Lab
 
-[Website](https://xinliulab.github.io) | [Google Scholar](https://scholar.google.com/citations?user=w-GyGM4AAAAJ) | [GitHub](https://github.com/xinliulab) | [LinkedIn](https://www.linkedin.com/in/xin-liu-57a834229)
+[Website](https://xlstacklab.github.io) | [Google Scholar](https://scholar.google.com/citations?user=w-GyGM4AAAAJ) | [GitHub](https://github.com/xinliulab) | [LinkedIn](https://www.linkedin.com/in/xin-liu-57a834229)
 
 I lead **XL-Stack Lab**, where we build research prototypes across wireless sensing,
 backscatter communication, physical-layer security, integrated sensing and
@@ -61,4 +61,4 @@ systems**, and **Physical AI** through reproducible systems, measurements, and c
 - Office: Love Building, Room 160
 - Address: Department of Computer Science, Florida State University
 
-For publications, students, news, and CV, please visit [xinliulab.github.io](https://xinliulab.github.io).
+For publications, students, news, and CV, please visit [xlstacklab.github.io](https://xlstacklab.github.io).
