@@ -1,4 +1,4 @@
-# Xin Liu
+# XL-Stack Lab
 
 <img align="right" src="https://xinliulab.github.io/Figure/headshot.png" alt="Xin Liu headshot" width="180">
 
