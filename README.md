@@ -5,7 +5,7 @@
 Assistant Professor, Department of Computer Science, Florida State University  
 Director of XL-Stack Lab
 
-[Website](https://xlstacklab.github.io) | [Google Scholar](https://scholar.google.com/citations?user=w-GyGM4AAAAJ) | [GitHub](https://github.com/xinliulab) | [LinkedIn](https://www.linkedin.com/in/xin-liu-57a834229)
+[Website](https://xlstacklab.github.io) | [Google Scholar](https://scholar.google.com/citations?user=w-GyGM4AAAAJ) | [GitHub](https://github.com/xlstacklab) | [LinkedIn](https://www.linkedin.com/in/xin-liu-57a834229)
 
 I lead **XL-Stack Lab**, where we build research prototypes across wireless sensing,
 backscatter communication, physical-layer security, integrated sensing and
@@ -26,15 +26,15 @@ systems**, and **Physical AI** through reproducible systems, measurements, and c
 
 | Project | Paper / Area | Code |
 | --- | --- | --- |
-| **BFMScan** | IMWUT/UbiComp 2026; explicit angle-resolved Wi-Fi sensing from the beamforming feedback matrix (BFM) of a single commodity device pair | [26UbiComp_BFMScan](https://github.com/xinliulab/26UbiComp_BFMScan) |
+| **BFMScan** | IMWUT/UbiComp 2026; explicit angle-resolved Wi-Fi sensing from the beamforming feedback matrix (BFM) of a single commodity device pair | [26UbiComp_BFMScan](https://github.com/xlstacklab/26UbiComp_BFMScan) |
 | **GeoMotionGPT** | EMNLP 2026; geometry-aligned motion understanding with large language models | [GeoMotionGPT](https://github.com/JYe16/GeoMotionGPT) |
 | **2FiA** | IEEE S&P 2026; WiFi sensing-based human authentication with unique physiological biometrics, combining respiration and heartbeat | [Zenodo Artifact](https://zenodo.org/records/17361618) |
-| **0Cal** | SenSys 2026; zero-calibration sensing/scanning system for millimeter-wave calibration | [26SenSys_0cal](https://github.com/xinliulab/26SenSys_0cal) |
+| **0Cal** | SenSys 2026; zero-calibration sensing/scanning system for millimeter-wave calibration | [26SenSys_0cal](https://github.com/xlstacklab/26SenSys_0cal) |
 | **O-JRC** | Computer Networks 2025; open-source mmWave MIMO-OFDM joint radar-communication experimentation platform | [O-JRC](https://github.com/mmWave-MIMO-Testbed/O-JRC) |
-| **FTP** | INFOCOM 2024; millimeter-wave networking and beam training | [24InfoCom_FTP](https://github.com/xinliulab/24InfoCom_FTP) |
-| **LightThief** | USENIX Security 2023; optical communication security and encoded-light backscatter | [23Security_LightThief](https://github.com/xinliulab/23Security_LightThief) |
-| **TScatter** | NSDI 2021; WiFi OFDM backscatter | [21NSDI_TScatter](https://github.com/xinliulab/21NSDI_TScatter) |
-| **VMscatter** | NSDI 2020; WiFi MIMO backscatter | [20NSDI_VMscatter](https://github.com/xinliulab/20NSDI_VMscatter) |
+| **FTP** | INFOCOM 2024; millimeter-wave networking and beam training | [24InfoCom_FTP](https://github.com/xlstacklab/24InfoCom_FTP) |
+| **LightThief** | USENIX Security 2023; optical communication security and encoded-light backscatter | [23Security_LightThief](https://github.com/xlstacklab/23Security_LightThief) |
+| **TScatter** | NSDI 2021; WiFi OFDM backscatter | [21NSDI_TScatter](https://github.com/xlstacklab/21NSDI_TScatter) |
+| **VMscatter** | NSDI 2020; WiFi MIMO backscatter | [20NSDI_VMscatter](https://github.com/xlstacklab/20NSDI_VMscatter) |
 
 ## Research Interests
 
